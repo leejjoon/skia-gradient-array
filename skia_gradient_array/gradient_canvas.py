@@ -3,7 +3,7 @@ from collections.abc import Iterable
 import numpy as np
 import skia
 
-from .gradient_param import Point, RGB, GradientParam
+from .gradient_param import Point, RGB
 
 
 class Stops:

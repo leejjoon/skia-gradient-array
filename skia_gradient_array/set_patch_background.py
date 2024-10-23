@@ -9,5 +9,3 @@ def set_patch_background(patch, arr):
                      coords="figure fraction"))
          ]
     )
-
-
